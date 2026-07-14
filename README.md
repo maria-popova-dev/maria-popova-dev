@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Maria Popova
+Backend & Flutter Developer
 
-Flutter Developer | Future Full-Stack Developer  
-
-Passionate about creating mobile applications and constantly learning new technologies.  
+Focused on reliability and clean architecture - closing the gap between "it works" and "it works reliably",whether that's a REST API handling geodata or a Flutter UI with real-time state. Currently building backend services on Spring Boot and shipping full-cycle Flutter apps.
 
 ---
 
